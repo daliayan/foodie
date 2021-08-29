@@ -1,5 +1,9 @@
 # Foodie || Ruby on Rails + Javascript
 
+THIS APP WAS COMPLETED IN A DIFFERENT REPOSITORY DUE TO CONNECTIVITY ERRORS WITH GITHUB HERE: https://github.com/daliayan/myfoodie
+
+READ MORE ABOUT THE ERRORS I ENCOUNTERED, INCLUDING THIS ONE HERE: https://daliayan.medium.com/trouble-in-javascript-land-a27611a20ea3
+
 This Ruby on Rails backend, Javascript frontend project called Taste This City (Foodie on Github)!
 
 ## Description of the Application
